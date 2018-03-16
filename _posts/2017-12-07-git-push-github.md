@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "这是徐代龙进行的第二篇文章"
+title:  "这是陈杨进行的第二篇文章"
 categories: SnakeSon
 tags:  hexo JavaScript
 author: SnakeSon
@@ -59,7 +59,7 @@ Configuration file: F:/myself/643435675.github.io/_config.yml
 ```
 
 主要进行了以上操作：
-cd 643435675.github.io  文件夹下
+cd chenyang666.github.io  文件夹下
 
 执行命令：
 
